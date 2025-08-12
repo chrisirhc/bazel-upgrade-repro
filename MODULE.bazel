@@ -1,0 +1,5 @@
+module(name = "bazel-upgrade-repro")
+
+rules_python_version = "1.4.0"
+
+bazel_dep(name = "rules_python", version = rules_python_version)
