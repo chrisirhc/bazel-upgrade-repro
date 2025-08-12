@@ -1,3 +1,4 @@
+Note this reproduction assumes you have Bazelisk installed.
 
 After running `./reproduce.sh`, we expect no errors, but instead I see:
 ```sh
